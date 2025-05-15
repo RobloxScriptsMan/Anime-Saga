@@ -2,7 +2,7 @@
 
 **Anime Saga Script** is your ultimate companion in dominating Anime Saga on Roblox. Designed for smooth auto farming, instant attack setups, and a fully automated dungeon experience, this script takes your gameplay from basic to boss-level. And guess what? It's **free, keyless**, and 100% user-friendly!
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Anime-Saga/blob/main/anime%20sag.png)
 
 ---
 
